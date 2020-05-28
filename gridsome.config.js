@@ -8,7 +8,6 @@ module.exports = {
   siteName: "Gridsome Blog Starter",
   siteDescription: "A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.",
   siteUrl: "https://looponce.github.io",
-  outputDir: "docs",
 
   templates: {
     Post: "/:title",
